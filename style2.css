@@ -1,0 +1,149 @@
+header { background: linear-gradient(to right, #5eda4e, #509bf5);
+	padding: 20px 0;
+	width: 100vw;
+}
+
+body
+{ background: #121212;
+	width: 100vw;
+}
+.pergunta {
+	position: relative;
+	width: 100vw;
+	margin: 0 auto;
+}
+
+/* nav {
+	position: absolute;
+	top: 110px;
+	right: 0; }*/
+
+
+/* nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+	color:  #5eda4e,;
+} */
+
+/* nav a {
+	
+
+	
+	color: #f1f1f1;
+	font-weight: bold;
+	font-size: 22px;}
+	 */
+
+/* nav a:hover {
+	color:  #509bf5;
+	text-decoration: underline;
+} */
+
+.produtos {
+	width: 100vw;
+	margin: 0 auto;
+	padding: 50px 0;
+	
+}
+
+.produtos li {
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 6px solid #303829;
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+
+.produtos li:hover {
+	border-color: #5eda4e;
+	background-color: #509bf5;
+}
+
+.produtos li:active {
+	border-color:#509bf5;
+	background-color: #5eda4e;	
+}
+
+.produtos li:hover h4 {
+	font-size: 35px;
+}
+
+.produtos h4 {
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: bold;
+	cursor: pointer;
+	color:aliceblue;
+	font-family:cursive;
+	
+}
+
+
+
+
+h3{
+    font-size: 50px;
+	font-weight: bold;
+    
+	
+	padding: 50px;
+	
+    font-family:cursive;
+	text-align: left;
+	
+	background-color: #242424;
+	color: aliceblue;
+	width: 80vw;
+	
+	border-radius: 20px;
+	
+		color:black;
+	text-shadow:
+		3px 3px 0 #fff,
+		-1px -1px 0 #fffafa,
+		1px -1px 0 #fff7f7,
+		-1px 1px 0 #fff4f4,
+		1px 1px 0 #fff;
+
+
+}
+
+
+
+h1 { text-align: center;
+font-size: 60px;
+/*font-family: fantasy;*/
+padding: 20px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+-webkit-text-stroke: 1px black;
+	color:#fff;
+	text-shadow:
+		3px 3px 0 #000,
+	    -3px 3px 0 #000,
+		-3px -3px 0 #000,
+		3px -3px 0 #000;
+}
+
+
+ .frango{
+	width: 30%;
+	margin-left: 300px;
+ }
+
+ h4{
+	color:white;
+text-shadow:
+	3px 3px 0 #000,
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+	
+ }

@@ -61,13 +61,13 @@ body
 }
 
 .produtos li:hover {
-	border-color: #5eda4e;
-	background-color: #509bf5;
+	border-color: #bef7b7;
+	background-color: #a2bee0;
 }
 
 .produtos li:active {
-	border-color:#509bf5;
-	background-color: #5eda4e;	
+	border-color:#87b9f7;
+	background-color: #bbecb5;	
 }
 
 .produtos li:hover h4 {

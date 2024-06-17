@@ -71,12 +71,12 @@ body
 }
 
 .produtos li:hover h4 {
-	font-size: 45px;
+	font-size: 55px;
 }
 
 .produtos h4 {
 	text-decoration: none;
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: bold;
 	cursor: pointer;
 	color:aliceblue;

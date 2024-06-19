@@ -43,6 +43,8 @@ body
 	width: 100vw;
 	margin: 0 auto;
 	padding: 50px 0;
+	margin-top: -300px;
+
 	
 }
 
@@ -132,11 +134,11 @@ font-weight: bold;
 		3px -3px 0 #000;
 }
 
-/* 
+ 
  .frango{
 	width: 30%;
 	margin-left: 300px;
- } */
+ } 
 
  h4{
 	color:white;
